@@ -1,7 +1,7 @@
 {
     "workbench.colorTheme": "Gruvbox Dark (Hard)",
     "xmlTools.enforcePrettySelfClosingTagOnFormat": true,
-    "editor.minimap.enabled": false,
+    "editor.minimap.enabled": true,
     "terminal.integrated.fontFamily": "Cascadia Mono PL",
     "terminal.integrated.fontWeight": "1",
     "editor.fontFamily": "Liberation Mono",
