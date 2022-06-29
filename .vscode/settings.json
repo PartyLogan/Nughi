@@ -60,6 +60,11 @@
         "vulkan_platform.h": "c",
         "renderer_frontend.h": "c",
         "system_error": "cpp",
-        "logger.h": "c"
+        "logger.h": "c",
+        "unistd.h": "c",
+        "xlib-xcb.h": "c",
+        "xkblib.h": "c",
+        "xinput.h": "c",
+        "xcb.h": "c"
     }
 }
