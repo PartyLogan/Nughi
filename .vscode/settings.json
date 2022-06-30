@@ -65,6 +65,8 @@
         "xlib-xcb.h": "c",
         "xkblib.h": "c",
         "xinput.h": "c",
-        "xcb.h": "c"
+        "xcb.h": "c",
+        "platform.h": "c",
+        "game_types.h": "c"
     }
 }

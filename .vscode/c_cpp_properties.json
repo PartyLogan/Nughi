@@ -4,7 +4,8 @@
             "name": "Linux",
             "includePath": [
                 "${workspaceFolder}/engine/src/**",
-                "/home/logan/VulkanSDK/1.3.216.0/x86_64/include"
+                "/home/logan/VulkanSDK/1.3.216.0/x86_64/include",
+                "${workspaceFolder}/engine/src"
             ],
             "defines": [
                 "_DEBUG",
