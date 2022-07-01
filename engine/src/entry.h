@@ -42,6 +42,7 @@ int main(void) {
     }
 
     shutdown_memory();
+    shutdown_logging();
 
     return 0;
 }
